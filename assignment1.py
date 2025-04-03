@@ -1,4 +1,4 @@
-favorite_color = "aqua"
+favorite_color = "blue"
 statement = f"My favorite color is {favorite_color}"
 print(statement)
 hobby = "driving"
